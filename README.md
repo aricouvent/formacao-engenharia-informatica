@@ -1,6 +1,7 @@
 # Formação em Engenharia Informática 👨‍💻
 
 Este repositório contém todos os meus estudos e projetos pessoais enquanto me preparo para ser um Engenheiro Informático.
+
 ## Estrutura
 
 - `01-logica-programacao/`: exercícios em Portugol e C++
