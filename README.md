@@ -8,7 +8,7 @@ Este repositório reúne meus estudos e projetos enquanto me preparo para ser um
 - **01-logica-programacao/**: Exercícios em Português e C++
 - **02-linux/**: Comandos, scripts e anotações do sistema Ubuntu
 - **03-web/**: Projetos em HTML, CSS, JS, React Native e Node.js
-- **04-tecnologias/**: Packet Tracer, topologias, comandos Cisco, CCNA
+- **04-redes/**: Packet Tracer, topologias, comandos Cisco, CCNA
 - **06-ciberseguranca/**: Ferramentas e anotações do Kali Linux
 - **07-cursos-certificacoes/**: Certificados e cursos realizados
 
