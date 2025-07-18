@@ -5,7 +5,7 @@ Este repositório reúne meus estudos e projetos enquanto me preparo para ser um
 
 ## Estrutura
 
-- **01-logica-programacao/**: Exercícios em Português e C++
+- **01-logica-programacao/**: Exercícios de lógica   e projecto em C++
 - **02-linux/**: Comandos, scripts e anotações do sistema Ubuntu
 - **03-web/**: Projetos em HTML, CSS, JS, React Native e Node.js
 - **04-redes/**: Packet Tracer, topologias, comandos Cisco, CCNA
