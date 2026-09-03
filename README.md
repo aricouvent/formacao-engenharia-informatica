@@ -1,6 +1,6 @@
 # Repositório de Estudos e Projetos Pessoais
 
-Bem-vindo(a) ao meu repositório! 👋  
+Bem-vindo(a) ao meu repositório!  
 Este repositório reúne meus estudos e projetos enquanto me preparo para ser um Engenheiro Informático.
 
 ## Estrutura
@@ -36,4 +36,4 @@ Se quiser trocar experiências, tirar dúvidas ou sugerir algo, me chame por [aq
 
 ---
 
-Bons estudos e obrigado pela visita! 🚀
+Bons estudos e obrigado pela visita! 
